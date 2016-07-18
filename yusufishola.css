@@ -1,0 +1,22 @@
+
+
+.td a{
+	display:block;
+	font-size: 12px;
+	color: #363;
+}
+.td a:hover{
+	background-color:#fffff;
+	color:#FFF;
+	}
+body,td,th {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+}
+a {
+	
+}
+h1 {
+	font-size: 24px;
+	color: #5BE679;
+}
